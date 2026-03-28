@@ -1,0 +1,17 @@
+SIEM INCIDENT REPORT
+
+Incident Type: Account Compromise
+Severity: HIGH
+
+Findings:
+- Multiple failed login attempts
+- Successful login after failures
+- Access to sensitive file
+
+Conclusion:
+Confirmed compromise of admin account
+
+Recommended Actions:
+- Block IP
+- Reset password
+- Monitor system
